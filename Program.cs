@@ -1,7 +1,7 @@
 ﻿using DesafioPOO.Models;
 
 Console.WriteLine("Smartphone Iphone");
-Smartphone iphone = new Iphone(numero: "4987", modelo:"Modelo2", imei:"22222222", memoria: 128);
+Smartphone iphone = new Iphone(numero: "4987", modelo:"Modelo2", imei:"222222222", memoria: 128);
 iphone.Ligar();
 iphone.InstalarAplicativo("Telegram");
 

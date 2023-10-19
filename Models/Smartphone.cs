@@ -22,7 +22,7 @@ namespace DesafioPOO.Models
 
         public void Ligar()
         {
-            Console.WriteLine("Ligando...");
+            Console.WriteLine("Ligando....");
         }
 
         public void ReceberLigacao()
